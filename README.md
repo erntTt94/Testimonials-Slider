@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/erntTt94/Testimonials-Slider](https://github.com/erntTt94/Testimonials-Slider)
+- Live Site URL: [https://ernttt94.github.io/Testimonials-Slider/](https://ernttt94.github.io/Testimonials-Slider/)
 
 ## My process
 
